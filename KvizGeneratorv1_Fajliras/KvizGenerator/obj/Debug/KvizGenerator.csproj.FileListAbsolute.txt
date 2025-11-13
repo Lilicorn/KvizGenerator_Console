@@ -1,8 +1,0 @@
-Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\bin\Debug\KvizGenerator.exe.config
-Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\bin\Debug\KvizGenerator.exe
-Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\bin\Debug\KvizGenerator.pdb
-Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\obj\Debug\KvizGenerator.csproj.AssemblyReference.cache
-Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\obj\Debug\KvizGenerator.csproj.CoreCompileInputs.cache
-Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\obj\Debug\KvizGenerator.exe
-Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\obj\Debug\KvizGenerator.pdb
-Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\obj\Debug\KvizGenerator.exe.config
