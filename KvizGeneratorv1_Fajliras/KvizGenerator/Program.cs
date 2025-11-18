@@ -177,7 +177,7 @@ namespace KvizGenerator
             Console.Clear();
             if (fajlolvasas)
             {
-                Console.Write("Kérlek add meg a txt fájlod nevét!\n\t");
+                Console.Write("\n\n\tKérlek add meg a txt fájlod nevét!\n\t");
                 Console.ForegroundColor = ConsoleColor.Magenta;
                 string olvasottfajlnev = Console.ReadLine();
                 Console.ForegroundColor = ConsoleColor.White;
@@ -188,11 +188,16 @@ namespace KvizGenerator
                 }
                 while (olvasottfajlnev.IndexOfAny(tiltolista) != -1 || !File.Exists(olvasottfajlnev))
                 {
-                    Console.Write(@"biztos hgy ez a neve??
-nezd meg megegyszer
-    ");
+                    Console.Write(@"        biztos hogy ez a neve??
+        nezd meg megegyszer
+        ");
                     Console.ForegroundColor = ConsoleColor.Magenta;
                     olvasottfajlnev = Console.ReadLine();
+                    if (olvasottfajlnev.IndexOf(".txt") == -1)
+                    {
+                        olvasottfajlnev += ".txt";
+
+                    }
                     Console.ForegroundColor = ConsoleColor.White;
                 }
 
@@ -204,16 +209,16 @@ nezd meg megegyszer
             }
             else
             {
-                Console.Write("\n\n\n\tokidoki ^_^ hogy mentsem el a fajlodat? \n(fajlnevet adj meg marmint) \n\t\t");
+                Console.Write("\n\n\n\tokidoki ^_^ hogy mentsem el a fajlodat? \n\t(fajlnevet adj meg marmint) \n\t\t");
                 Console.ForegroundColor = ConsoleColor.Magenta;
                 string megirtfajlnev = Console.ReadLine();
                 Console.ForegroundColor = ConsoleColor.White;
                 while (megirtfajlnev.IndexOfAny(tiltolista) != -1)
                 {
                     Console.Write(@"
-ez a fajlnev nem megengedett!! 
-nem lehet benne \, /, :, *, ?, "", <, >, |
-gondolj ki egy masik fajlnevet!!!
+    ez a fajlnev nem megengedett!! 
+    nem lehet benne \, /, :, *, ?, "", <, >, |
+    gondolj ki egy masik fajlnevet!!!
     ");
                     Console.ForegroundColor = ConsoleColor.Magenta;
                     megirtfajlnev = Console.ReadLine();
@@ -334,8 +339,8 @@ gondolj ki egy masik fajlnevet!!!
                     fajlirashoz.Add(mostani);
 
                 }
-                Console.Write("\n\n\nSzeretnél még kérdést írni?\n \t[1]: igen \t [2]: nem\n\t");
-                if (int.Parse(Console.ReadLine()) == 2)
+                Console.Write("\n\n\n\tSzeretnél még kérdést írni?\n \t[1]: igen \t [2]: nem\n\t");
+                if (Console.ReadLine() == "2")
                 {
                     break;
                 }
