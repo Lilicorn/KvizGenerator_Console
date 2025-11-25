@@ -1,6 +1,19 @@
-4q;Hány lába van egy (egeszseges) kutyának?;2;3;4;8;3
-i/h;Szereted-e a csokit?;1
-4q;Melyik bolygó a legnagyobb?;Föld;Jupiter;Mars;Plútó;2
-i/h;Van-e háziállatod?;2
-4q;Mennyi 12*3?;15;36;48;33;2
-4q;Milyen színű a flamingó alapból?;Piros;Fehér;Rózsaszín;Lila;3
+4q;Hány hónapból áll egy év?;10;11;12;13;3
+i/h;A zebrák fehéren feketén csíkosak.;2
+4q;Melyik a legkisebb prímszám?;1;2;3;5;2
+4q;Melyik állat tud repülni?;Kutya;Delfin;Sirály;Csiga;3
+i/h;A banán fán terem.;2
+4q;Mennyi 9+10?;17;19;21;910;2
+4q;Melyik szín keverésével lesz lila?;Piros+Kék;Zöld+Kék;Sárga+Piros;Zöld+Sárga;1
+4q;Hány fok a víz forráspontja?;0;50;100;200;3
+i/h;Sherman tábornok fája egy óriás mamutfenyő.;1
+4q;Melyik nem gyümölcs?;Banán;Alma;Répa;Szőlő;3
+4q;Ki festette a Mona Lisát?;Picasso;Da Vinci;Van Gogh;Michelangelo;2
+4q;Mennyi 5 négyzete?;10;20;25;15;3
+4q;Melyik bolygó van legközelebb a Naphoz?;Mars;Vénusz;Merkúr;Jupiter;3
+4q;Mi a pingvinek élőhelye?;Sivatag;Északi-sark;Antarktisz;Őserdő;3
+i/h;A Triton Hold a leghidegebb égitest a Naprendszerben.;1
+4q;Hány oldalú a háromszög?;2;3;4;5;2
+4q;Mit eszik főként a panda?;Banán;Eper;Bambusz;Hal;3
+4q;Melyik elem jelölése Fe?;Fém;Föld;Vas;Fluor;3
+4q;Milyen színű a magyar zászló?;Piros-fehér-zöld;Kék-sárga;Zöld-lila;Lila-rózsaszín;1

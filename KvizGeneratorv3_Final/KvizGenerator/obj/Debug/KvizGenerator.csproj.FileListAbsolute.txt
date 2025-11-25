@@ -46,3 +46,11 @@ C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\iktj_2025-26\kvizgen trauma\
 C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\iktj_2025-26\kvizgen trauma\kvizgen v2\KvizGenerator\obj\Debug\KvizGenerator.csproj.CoreCompileInputs.cache
 C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\iktj_2025-26\kvizgen trauma\kvizgen v2\KvizGenerator\obj\Debug\KvizGenerator.exe
 C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\iktj_2025-26\kvizgen trauma\kvizgen v2\KvizGenerator\obj\Debug\KvizGenerator.pdb
+C:\Users\soveg\Downloads\KvizGeneratorv3_Final\KvizGenerator\bin\Debug\KvizGenerator.exe.config
+C:\Users\soveg\Downloads\KvizGeneratorv3_Final\KvizGenerator\bin\Debug\KvizGenerator.exe
+C:\Users\soveg\Downloads\KvizGeneratorv3_Final\KvizGenerator\bin\Debug\KvizGenerator.pdb
+C:\Users\soveg\Downloads\KvizGeneratorv3_Final\KvizGenerator\obj\Debug\KvizGenerator.csproj.AssemblyReference.cache
+C:\Users\soveg\Downloads\KvizGeneratorv3_Final\KvizGenerator\obj\Debug\KvizGenerator.exe.config
+C:\Users\soveg\Downloads\KvizGeneratorv3_Final\KvizGenerator\obj\Debug\KvizGenerator.csproj.CoreCompileInputs.cache
+C:\Users\soveg\Downloads\KvizGeneratorv3_Final\KvizGenerator\obj\Debug\KvizGenerator.exe
+C:\Users\soveg\Downloads\KvizGeneratorv3_Final\KvizGenerator\obj\Debug\KvizGenerator.pdb

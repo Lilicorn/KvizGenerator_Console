@@ -120,15 +120,13 @@ namespace KvizGenerator
                 if (input == "1")
                 {
                     Gameplay(questions);
-                    break; // kész a játék, kilépünk
+                    break;
                 }
                 else if (input == "2")
                 {
                     IrasVagyOlvasasScreenThingy(questions);
                 }
             }
-
-            // 120 x 60, tehát 2:1 a képarány
         }
 
 
@@ -162,7 +160,7 @@ namespace KvizGenerator
             Console.ForegroundColor = ConsoleColor.White;
 
             bool fajlolvasas = false;
-            char[] tiltolista = @"\/:*?""<>|".ToCharArray(); // ez a  fajlnev ellenorzesehez koll
+            char[] tiltolista = @"\/:*?""<>|".ToCharArray(); // ez a  fajlnev ellenőrzéséhez kell
             string input = "";
             do
             {
@@ -171,7 +169,6 @@ namespace KvizGenerator
             }
             while (input != "1" && input != "2");
             if (input == "1") { fajlolvasas = false; } else if (input == "2") { fajlolvasas = true; }
-            //lusta vagyok atkonvertlni mosoly
 
             Console.Clear();
             Thread.Sleep(100);
@@ -201,7 +198,7 @@ namespace KvizGenerator
                 while (olvasottfajlnev.IndexOfAny(tiltolista) != -1 || !File.Exists(olvasottfajlnev))
                 {
                     Console.Write(@"        biztos hogy ez a neve??
-        nezd meg megegyszer
+        nézd meg mégegyszer
         ");
                     Console.ForegroundColor = ConsoleColor.Magenta;
                     olvasottfajlnev = Console.ReadLine();
@@ -222,11 +219,11 @@ namespace KvizGenerator
             else
             {
                 Console.WriteLine("\n");
-                Console.Write("\u001b[38;2;34;34;34m\n\n\n\tokés ^_^ hogy mentsem el a fajlodat? \n\t(fajlnevet adj meg marmint) \n\t\t[0m");
+                Console.Write("\u001b[38;2;34;34;34m\n\n\n\tokés ^_^ hogy mentsem el a fájlodat? \n\t(fájlod nevét add meg) \n\t\t[0m");
                 Thread.Sleep(100);
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.White;
-                Console.Write("\n\n\n\tokés ^_^ hogy mentsem el a fajlodat? \n\t(fajlnevet adj meg marmint) \n\t\t");
+                Console.Write("\n\n\n\tokés ^_^ hogy mentsem el a fájlodat? \n\t(fájlod nevét add meg) \n\t\t");
 
                 Console.ForegroundColor = ConsoleColor.Magenta;
                 string megirtfajlnev = Console.ReadLine();
@@ -234,9 +231,9 @@ namespace KvizGenerator
                 while (megirtfajlnev.IndexOfAny(tiltolista) != -1)
                 {
                     Console.Write(@"
-                    ez a fajlnev nem megengedett!! 
+                    ez a fájlnev nem megengedett!! 
                     nem lehet benne \, /, :, *, ?, "", <, >, |
-                    gondolj ki egy masik fajlnevet!!!
+                    gondolj ki egy masik fájlnevet!!!
                     ");
                     Console.ForegroundColor = ConsoleColor.Magenta;
                     megirtfajlnev = Console.ReadLine();
@@ -388,7 +385,7 @@ namespace KvizGenerator
                     if (int.Parse(myanswer) == k.HelyesValasz)
                     {
                         correct++;
-                        Console.WriteLine("Helyes!");
+                        Console.WriteLine("\n\n\n\tHelyes!");
                         Console.ReadKey();
                         Console.Clear();
                     }
@@ -430,7 +427,7 @@ namespace KvizGenerator
                     if (int.Parse(myanswer) == k.HelyesValasz)
                     {
                         correct++;
-                        Console.WriteLine("Helyes!");
+                        Console.WriteLine("\n\n\n\tHelyes!");
                         Console.ReadKey();
                         Console.Clear();
                     }

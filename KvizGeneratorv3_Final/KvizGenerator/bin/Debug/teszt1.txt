@@ -1,0 +1,6 @@
+4q;Hány lába van egy (egészséges) kutyának?;2;3;4;8;3
+i/h;Szereted-e a csokit?;1
+4q;Melyik bolygó a legnagyobb?;Föld;Jupiter;Mars;Plútó;2
+i/h;A zsiráfoknak kék nyelvük van.;1
+4q;Mennyi 12*3?;15;36;48;33;2
+4q;Milyen színű a flamingó alapból?;Piros;Fehér;Rózsaszín;Lila;3
