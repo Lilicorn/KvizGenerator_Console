@@ -1,0 +1,24 @@
+Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\bin\Debug\KvizGenerator.exe.config
+Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\bin\Debug\KvizGenerator.exe
+Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\bin\Debug\KvizGenerator.pdb
+Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\obj\Debug\KvizGenerator.csproj.AssemblyReference.cache
+Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\obj\Debug\KvizGenerator.csproj.CoreCompileInputs.cache
+Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\obj\Debug\KvizGenerator.exe
+Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\obj\Debug\KvizGenerator.pdb
+Z:\!! 2025-26\iktproj_2025-26\KvizGenerator\KvizGenerator\obj\Debug\KvizGenerator.exe.config
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\iktj_2025-26\kvizgen trauma\KvizGeneratorv1_Fajliras\KvizGenerator\bin\Debug\KvizGenerator.exe.config
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\iktj_2025-26\kvizgen trauma\KvizGeneratorv1_Fajliras\KvizGenerator\bin\Debug\KvizGenerator.exe
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\iktj_2025-26\kvizgen trauma\KvizGeneratorv1_Fajliras\KvizGenerator\bin\Debug\KvizGenerator.pdb
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\iktj_2025-26\kvizgen trauma\KvizGeneratorv1_Fajliras\KvizGenerator\obj\Debug\KvizGenerator.csproj.AssemblyReference.cache
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\iktj_2025-26\kvizgen trauma\KvizGeneratorv1_Fajliras\KvizGenerator\obj\Debug\KvizGenerator.exe.config
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\iktj_2025-26\kvizgen trauma\KvizGeneratorv1_Fajliras\KvizGenerator\obj\Debug\KvizGenerator.csproj.CoreCompileInputs.cache
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\iktj_2025-26\kvizgen trauma\KvizGeneratorv1_Fajliras\KvizGenerator\obj\Debug\KvizGenerator.exe
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\iktj_2025-26\kvizgen trauma\KvizGeneratorv1_Fajliras\KvizGenerator\obj\Debug\KvizGenerator.pdb
+Z:\!! 2025-26\iktproj_2025-26\KvizGeneratorv1_Fajliras\KvizGenerator\bin\Debug\KvizGenerator.exe.config
+Z:\!! 2025-26\iktproj_2025-26\KvizGeneratorv1_Fajliras\KvizGenerator\bin\Debug\KvizGenerator.exe
+Z:\!! 2025-26\iktproj_2025-26\KvizGeneratorv1_Fajliras\KvizGenerator\bin\Debug\KvizGenerator.pdb
+Z:\!! 2025-26\iktproj_2025-26\KvizGeneratorv1_Fajliras\KvizGenerator\obj\Debug\KvizGenerator.csproj.AssemblyReference.cache
+Z:\!! 2025-26\iktproj_2025-26\KvizGeneratorv1_Fajliras\KvizGenerator\obj\Debug\KvizGenerator.exe.config
+Z:\!! 2025-26\iktproj_2025-26\KvizGeneratorv1_Fajliras\KvizGenerator\obj\Debug\KvizGenerator.csproj.CoreCompileInputs.cache
+Z:\!! 2025-26\iktproj_2025-26\KvizGeneratorv1_Fajliras\KvizGenerator\obj\Debug\KvizGenerator.exe
+Z:\!! 2025-26\iktproj_2025-26\KvizGeneratorv1_Fajliras\KvizGenerator\obj\Debug\KvizGenerator.pdb
