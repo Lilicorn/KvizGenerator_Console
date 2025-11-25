@@ -1,6 +1,0 @@
-4q;egyes;1;2;3;4;1
-4q;2es;1;2;3;4;2
-4q;harom;1;2;3;4;3
-4q;neg;4;3;2;1;4
-I/H;igaz vagy hamisű;1
-I/H;hamis;2
